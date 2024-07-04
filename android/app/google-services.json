@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118139599005",
+    "project_id": "discussion-forum-search-uuxtnf",
+    "storage_bucket": "discussion-forum-search-uuxtnf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118139599005:android:9f1d85b38c2a931e8cbc74",
+        "android_client_info": {
+          "package_name": "com.mycompany.discussionforumsearchpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYrPyiukOhOFe7zvc4n0H3s-CEtxmgM3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
